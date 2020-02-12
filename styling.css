@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+  }
+  
+  
+  }
+  h2 {
+    font-size: 1.2rem;
+  }
+  
+  .joc {
+     background-color: snow
+     width: 100%;
+     height: 250px;
+     padding: 50px;
+     margin-left: 10%;
+     
+    
+  }
+  .joc h1 {
+    color: hsl(179, 62%, 43%);
+    margin-bottom: 1.3rem;
+  }
+  .joc h2 {
+    color: hsla(71, 73%, 54%, 0.856);
+    margin-bottom: 1.3rem;
+  }
+  .joc p {
+    max-width: 95%;
+    color: rgb(172, 171, 171);
+    max-width: 60%;
+  }
+  .ms{
+     background-color: hsl(179, 62%, 43%);
+     width: 40%;
+     height: 250px;
+     float: left;
+     padding: 50px;
+     margin-left: 10%;
+  } 
+  .ms h2{
+    color:  white;
+    margin-bottom: 1.5rem;
+  }
+  .ms p{
+    color: #cccccc;
+    margin-bottom: 1.3rem;
+  }
+  .ms span{
+    color: white;
+    font-size: 2rem;
+  }
+  .ms button{
+    background-color:hsl(71, 73%, 54%) ;
+    color: #ffffff;
+    width: 60%;
+    height: 40px;
+    
+  }
+
+  .why-us{
+background-color:rgba(27, 183, 189, 0.616) ;
+width: 40%;
+height: 250px;
+float: left;
+padding: 50px;
+margin-right: 10%;
+  }
+
+  .why-us p{
+ color:hsla(203, 44%, 93%, 0.822) ;
+ max-width: 60%;
+  }
+
+  .why-us h2{
+    color: white;
+    margin-bottom: 1.5rem;
+  }
